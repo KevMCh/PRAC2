@@ -1,0 +1,3 @@
+[submodule "data/rent_prices"]
+	path = data/rent_prices
+	url = https://github.com/jvruoc/rent_prices.git
