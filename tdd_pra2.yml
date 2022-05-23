@@ -1,0 +1,20 @@
+name: tdd_pra2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - geopandas
+  - matplotlib
+  - geojson
+  - mapclassify 
+  - contextily 
+  - folium 
+  - mplleaflet 
+  - osmnx
+  - proj
+  - scikit-learn
+  - pandas
+  - ipykernel
+  - seaborn
+  - statsmodels
+  - fastparquet
