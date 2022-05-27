@@ -8,6 +8,9 @@ node_modules/
 */.ipynb_checkpoints
 *.tsbuildinfo
 
+data/*cleaned.parquet
+data/*cleaned.csv
+
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
 
